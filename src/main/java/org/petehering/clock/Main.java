@@ -24,7 +24,7 @@ public class Main implements Runnable
     private static final Color BGCOLOR = Color.BLACK;
     private static final Color TIMECOLOR = Color.GRAY;
     private static final Color DATECOLOR = Color.DARK_GRAY;
-    private static final Font LGFONT = new Font("Arial", BOLD, 125);
+    private static final Font LGFONT = new Font("Arial", BOLD, 100);
     private static final Font SMFONT = new Font("Arial", PLAIN, 25);
     private static final SimpleDateFormat DATE = new SimpleDateFormat("EEE, MMM dd, yyyy");
     private static final SimpleDateFormat TIME = new SimpleDateFormat("hh:mm:ss a");
